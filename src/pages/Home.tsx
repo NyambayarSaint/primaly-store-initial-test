@@ -28,7 +28,7 @@ const highlights = [
 const roadmap = [
   "Swap the hero copy for your product positioning.",
   "Replace the mock metrics with product shots, testimonials, or pricing.",
-  "Extend the routes as the project grows past a single landing page.",
+  "Extend the routes as the project grows past a single lan ding page.",
 ] as const;
 
 const chartHeights = [38, 52, 46, 70, 60, 88, 76] as const;
@@ -44,7 +44,7 @@ export default function Home() {
               Refined React starter for modern product launches
             </span>
             <h1 className="max-w-3xl text-5xl leading-[0.95] text-white sm:text-6xl lg:text-7xl">
-              A beautiful hero homepage that feels shipped before you start shipping.
+              Yeey
             </h1>
             <p className="max-w-2xl text-lg leading-8 text-slate-300 sm:text-xl">
               This React, TypeScript, and Tailwind starter now opens with a sharper story,
